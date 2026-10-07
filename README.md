@@ -15,6 +15,11 @@
 
 <p align="center"><sub>it's free. don't know which mac you have? apple menu > about this mac. if it says M1, M2, M3 or M4 get the M1+ one, if it says intel get intel. the linux .deb is on the <a href="https://github.com/YourJunny/PlaceHolder/releases">releases page</a></sub></p>
 
+> [!WARNING]
+> **Your computer is gonna warn you that this file isn't trusted. That's expected, you can ignore it.**
+>
+> Windows ("Windows protected your PC" / "Unknown publisher") and Mac ("can't check it for malware") show that for any app that isn't code signed. Getting it signed costs money and I haven't paid for that yet. It doesn't mean anything was found in the file. The download is safe, just make sure you grab it from the buttons above or the [releases page](https://github.com/YourJunny/PlaceHolder/releases) and not some other site. How to get past it is right below.
+
 ## How to install
 
 **Windows:** just run the setup file. Windows will probably pop up with "Windows protected your PC" because I haven't paid for a code signing thing yet. Hit **More info** then **Run anyway** and you're good.
